@@ -13,7 +13,7 @@
         <group name="PROPERTIES">
 
             <group name="CANBOARDS">
-                <param name="type">                 bms             </param>
+                <param name="type">                 bat             </param>
 
                 <group name="PROTOCOL">
                     <param name="major">            0                   </param>
@@ -28,8 +28,8 @@
 
             <group name="SENSORS">
                 <param name="id">                   battery1        </param>
-                <param name="board">                bms             </param>
-                <param name="location">             CAN1:1          </param>
+                <param name="board">                bat             </param>
+                <param name="location">             CAN2:2          </param>
             </group>
 
         </group>
